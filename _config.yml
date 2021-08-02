@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shayan Shafquat"
 title_separator          : "-"
 name                     : &name "Shayan Shafquat"
-description              : &description "personal description"
+description              : &description "Data Scientist at OLA"
 url                      : https://shayan823.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shayan Shafquat"
   avatar           : "shayan.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Data Scientist @ OLA | IIT Kharagpur"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "shayan1618"
   vine             :
   weibo            :
   xing             :
