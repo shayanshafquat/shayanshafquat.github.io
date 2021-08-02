@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Shayan"
-excerpt: "About me"
+title: ""
+excerpt: "Shayan Shafquat | IIT KGP"
 author_profile: true
 redirect_from: 
   - /about/
