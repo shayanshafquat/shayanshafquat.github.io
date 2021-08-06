@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Data Scientist at OLA (ANI Technologies). Previously, I graduated with a Integrated Msc. (B.Sc + M.Sc) in Mathematics and Computing from the department of Mathematics, IIT Kharagpur, India. I worked as a Student Researcher at SEAL Lab, Dept. of CSE, IIT Kharagpur under the guidance of Prof. Debdeep Mukhopadhyay during my senior year. I am particularly interested in the field of Hardware Security, Computer Architecture and VLSI.
+Hi! I am a Data Scientist at OLA (ANI Technologies). Previously, I graduated with a Integrated Msc. (B.Sc + M.Sc) in Mathematics and Computing from the department of Mathematics, IIT Kharagpur, India. I have previous experience of working under Prof. Pawan Goyal to detect rumuors in a Tweet data. In the year 2019, I collaborated with one of my classmate and took part in a competition (SemEval) to detect hyperpartisan news. 
 
 In Summer (2019), I interned as a Research Engineer at Ola in Bangalore, India in the data science Team and was offered Pre-Placement Job Offer.
 
-During my spare time I enjoy following and playing football, I am a big FC Barcelona Fan. Oh wait, I have fallen in love with F1 racing and cannot miss a race weekend.
+Other than this i enjoy reading books, listening to music and playing football.
 
 <!---
 A data-driven personal website
