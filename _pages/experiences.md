@@ -23,6 +23,7 @@ From September 2020 to January 2022, I worked as a Data Scientist at Ola, India.
 <br/><br/>
 <br/><br/>
 
+<!--
 # Internships
 
 ___
@@ -130,3 +131,4 @@ The group aims to develop an exoskeleton for the lower extremity of the human bo
 
 <br/><br/>
 <br/><br/> -->
+-->
