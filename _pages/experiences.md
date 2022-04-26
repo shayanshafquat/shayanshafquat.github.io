@@ -16,7 +16,7 @@ ___
 
 ## ANI Technologies Private Limited (OLA), Bangalore, India
 
-<img style="float: left;" src="/images/ola_logo.png" width="200" height="200" hspace="30">
+<img style="float: left;" src="/images/ola_logo.jpeg" width="200" height="200" hspace="30">
 
 From September 2020 to January 2022, I worked as a Data Scientist at Ola, India. I was involved in the data science team that dealt with pricing problems for cabs. The work involved around user retention, improving earnings for the partners and making the platform hassle-free.
 
