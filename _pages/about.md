@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Data Scientist at OLA (ANI Technologies). Previously, I graduated with a Integrated Msc. (B.Sc + M.Sc) in Mathematics and Computing from the department of Mathematics, IIT Kharagpur, India. I have previous experience of working under Prof. Pawan Goyal to detect rumuors in a Tweet data. In the year 2019, I collaborated with one of my classmate and took part in a competition (SemEval) to detect hyperpartisan news. 
+Hi! My primary interest lies in artificial intelligence and have hands-on experience in reinforcement learning, natural language processing and machine learning projects. I also have a technical experience of 1.5 years working for a ride hailing startup (OLA) as a data scientist. Previously, I graduated with a Integrated Msc. (B.Sc + M.Sc) in Mathematics and Computing from the department of Mathematics, IIT Kharagpur, India.
 
-In Summer (2019), I interned as a Research Engineer at Ola in Bangalore, India in the data science Team and was offered Pre-Placement Job Offer.
+I am actively looking out for research-based roles as I review the literature and work on independent projects such as modelling agents for decision making tasks, implementing neuron models and simulating dynamics of a synapse.
 
-Other than this i enjoy reading books, listening to music and playing football.
+Other than this I enjoy to read on topics like neuroscience (brain), startups and investment strategies. My hobbies include go-karting and playing football.
 
 <!---
 A data-driven personal website
