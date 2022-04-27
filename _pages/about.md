@@ -22,6 +22,24 @@ I am actively looking out for research-based roles as I review the literature an
 
 Other than this I enjoy to read on topics like neuroscience (brain), startups and investment strategies. My hobbies include go-karting and playing football.
 
+# E-mail
+___
+
+**shafquat [dot] shayan [at] gmail [dot] com**
+
+# Updates
+
+___
+
+* **March 2022**
+  * Submitted my proposal for [GSoC 2022](https://summerofcode.withgoogle.com/) under the organization [INCF](https://www.incf.org/).
+
+* **January 2022**
+	* Left the role of Data Scientist at OLA (ride hailing firm) to pursue my research interests in the field of Computational Neuroscience.
+
+* **June 2020**
+	* Completed my graduation from [IIT Kharagpur](http://www.iitkgp.ac.in/) with B.Sc and Msc. in the course of Mathematics and Computing.
+
 <!---
 A data-driven personal website
 ======
