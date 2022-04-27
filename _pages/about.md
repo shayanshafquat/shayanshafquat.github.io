@@ -13,8 +13,8 @@ redirect_from:
 
 
 
-
-
+## Brief Bio
+___
 
 Hi! My primary interest lies in artificial intelligence and have hands-on experience in reinforcement learning, natural language processing and machine learning projects. I also have a technical experience of 1.5 years working for a ride hailing startup (OLA) as a data scientist. Previously, I graduated with a Integrated Msc. (B.Sc + M.Sc) in Mathematics and Computing from the department of Mathematics, IIT Kharagpur, India.
 
@@ -22,12 +22,12 @@ I am actively looking out for research-based roles as I review the literature an
 
 Other than this I enjoy to read on topics like neuroscience (brain), startups and investment strategies. My hobbies include go-karting and playing football.
 
-# E-mail
+## E-mail
 ___
 
 **shafquat [dot] shayan [at] gmail [dot] com**
 
-# Updates
+## Updates
 
 ___
 
