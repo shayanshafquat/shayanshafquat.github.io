@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+[Resume](https://github.com/shayan823/shayan823.github.io/blob/master/files/cv.pdf)
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
