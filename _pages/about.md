@@ -16,11 +16,13 @@ redirect_from:
 ## Brief Bio
 ___
 
-Hi! My primary interest lies in artificial intelligence and have hands-on experience in reinforcement learning, natural language processing and machine learning projects. I also have a technical experience of 1.5 years working for a ride hailing startup (OLA) as a data scientist. Previously, I graduated with a Integrated Msc. (B.Sc + M.Sc) in Mathematics and Computing from the department of Mathematics, IIT Kharagpur, India.
+My name is Shayan Shafquat. I am from a small place called “Hazaribagh” (a land of thousand gardens), India. I am a curious researcher on topics related to neuroscience, artificial intelligence.
 
-I am actively looking out for research-based roles as I review the literature and work on independent projects such as modelling agents for decision making tasks, implementing neuron models and simulating dynamics of a synapse.
+I have a masters degree in Mathematics and Computing. I have experience applying ML models, NLP techniques and reinforcement learning algorithms.
 
-Other than this I enjoy to read on topics like neuroscience (brain), startups and investment strategies. My hobbies include go-karting and playing football.
+My thinking has been influenced by Geoffrey Hinton, Demis Hassabis, Yoshua Bengio and Terrence Sejnowski. I feel to create better AI agents; we must first study the emergence of intelligence in biological brains.
+
+Other than this, I enjoy to read on startup culture of India. I also like to listen to a lot of different [music](https://open.spotify.com/user/542p87i1bwevu3h9q4ukv9fht?si=13f1fbb49e5a47a1), watch and play football.
 
 ## E-mail
 ___
@@ -30,6 +32,8 @@ ___
 ## Updates
 
 ___
+* **June 2022**
+  * Working on the [Bahl cell model](https://github.com/OpenSourceBrain/BahlEtAl2012_ReducedL5PyrCell) and [macaque A1 cortical model](https://github.com/NathanKlineInstitute/Macaque_auditory_thalamocortical_model_data) as a part GSoC 2022 under the mentorship of Padraig Gleeson and Ankur Sinha.
 
 * **March 2022**
   * Submitted my proposal for [GSoC 2022](https://summerofcode.withgoogle.com/) under the organization [INCF](https://www.incf.org/).
