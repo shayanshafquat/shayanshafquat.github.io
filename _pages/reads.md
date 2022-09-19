@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Interesting Reads"
+title: ""
 permalink: /reads/
 author_profile: true
 redirect_from:
@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-1. [The Value of Science - Feynman](https://calteches.library.caltech.edu/1575/1/Science.pdf)
+1. [The Value of Science - Feynman](https://calteches.library.caltech.edu/1575/1/Science.pdf){target="_blank"}
