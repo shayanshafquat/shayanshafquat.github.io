@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: ""
 excerpt: "Shayan Shafquat | IIT KGP"
