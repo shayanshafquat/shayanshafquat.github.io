@@ -88,8 +88,8 @@ author:
   bio              : "Actively looking out for research interns in RL / Computational Neuroscience"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -105,7 +105,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/shayan-shafquat"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
