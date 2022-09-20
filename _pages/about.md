@@ -8,11 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-
-
-
-
 ## Brief Bio
 ___
 
