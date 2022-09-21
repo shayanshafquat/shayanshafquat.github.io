@@ -28,17 +28,15 @@ ___
 ## Updates
 
 ___
-* **June 2022**
-  * Working on the [Bahl cell model](https://github.com/OpenSourceBrain/BahlEtAl2012_ReducedL5PyrCell) and [macaque A1 cortical model](https://github.com/NathanKlineInstitute/Macaque_auditory_thalamocortical_model_data) as a part GSoC 2022 under the mentorship of Padraig Gleeson and Ankur Sinha.
+* **August 2022** <i>Neuromatch academy project to study the role of reward and punishment related changes in behaviour of a mice during a 2AFC task</i>
 
-* **March 2022**
-  * Submitted my proposal for [GSoC 2022](https://summerofcode.withgoogle.com/) under the organization [INCF](https://www.incf.org/).
+* **June 2022** <i>Started working on the [Bahl cell model](https://github.com/OpenSourceBrain/BahlEtAl2012_ReducedL5PyrCell) and [macaque A1 cortical model](https://github.com/NathanKlineInstitute/Macaque_auditory_thalamocortical_model_data) as a part GSoC 2022 under the mentorship of Padraig Gleeson and Ankur Sinha</i>
 
-* **January 2022**
-	* Left the role of Data Scientist at OLA (ride hailing firm) to pursue my research interests in the field of Computational Neuroscience.
+* **March 2022**  <i>Submitted my proposal for [GSoC 2022](https://summerofcode.withgoogle.com/) under the organization [INCF](https://www.incf.org/)</i>
 
-* **June 2020**
-	* Completed my graduation from [IIT Kharagpur](http://www.iitkgp.ac.in/) with B.Sc and Msc. in the course of Mathematics and Computing.
+* **January 2022**  <i>Left the role of Data Scientist at OLA (ride hailing firm) to pursue my research interests in the field of Computational Neuroscience</i>
+
+* **June 2020** <i>Completed my graduation from [IIT Kharagpur](http://www.iitkgp.ac.in/) with B.Sc and Msc. in the course of Mathematics and Computing</i>
 
 <!---
 A data-driven personal website
