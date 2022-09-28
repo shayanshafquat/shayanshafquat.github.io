@@ -21,6 +21,8 @@ main:
   - title: "Interesting Reads"
     url: /reads/
     
+  - title: "Projects"
+    url: /projects/
   # - title: "Guide"
   #   url: /markdown/
 
