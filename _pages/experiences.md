@@ -7,12 +7,12 @@ redirect_from:
   - /experiences
 ---
 
----
 
 
-## Full Time Positions
-### Data Scientist - I
-#### ANI Technologies Private Limited (OLA), Bangalore, India
+
+# Full Time Positions
+## Data Scientist - I
+### ANI Technologies Private Limited (OLA), Bangalore, India
 
 <img style="float: left;" src="/images/ola_logo.jpeg" width="200" height="200" hspace="30">
 

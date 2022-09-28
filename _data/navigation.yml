@@ -8,7 +8,9 @@ main:
 
   #- title: "Teaching"
   #  url: /teaching/    
-    
+  - title: "Projects"
+    url: /projects/
+
   - title: "Experiences"
     url: /experiences/
         
@@ -21,8 +23,6 @@ main:
   - title: "Interesting Reads"
     url: /reads/
     
-  - title: "Projects"
-    url: /projects/
   # - title: "Guide"
   #   url: /markdown/
 
