@@ -7,7 +7,7 @@ redirect_from:
   - /projects
 ---
 
-### Neuronal oscillations on evolving networks: Dynamics, Damage, Degeneration, Decline, Dementia and Death: A review and extension of Goreily et al. (2020)
+### [Neuronal oscillations on evolving networks: Dynamics, Damage, Degeneration, Decline, Dementia and Death: A review and extension of Goreily et al. (2020)](https://github.com/shayanshafquat/PBM2/tree/main)
 1. **Neurodegenerative Disease Modeling:** Recreated and extended a neural network model to simulate the progression of neurodegenerative diseases, using the Fisher-Kolmogorov-Petrovsky-Piskunov and Heterodimer models for protein spread. This deepened my expertise in modeling disease dynamics within evolving brain networks, particularly in the context of Alzheimer’s disease.
 2. **Resting-State Brain Dynamics Analysis:** Applied signal processing techniques to analyze resting-state brain dynamics, focusing on the decline of cognitive functions over time. This included implementing dynamic biomarkers like Gamma range power and metastability index, enhancing my skills in using neural mass models (e.g., Wilson-Cowan) to simulate and interpret brain activity.
 3. **Exploration of Hemispheric Differences and Homeostasis:** Investigated inter-hemispheric variations in disease progression and the impact of network homeostasis on cognitive decline. This work involved the use of Graph Laplacian methods and homeostatic adaptation models, advancing my understanding of how structural network changes affect neural dynamics in neurodegenerative conditions.
