@@ -17,7 +17,7 @@ redirect_from:
 2. **Enhanced Model Integration and Comparison:** Extended the Stuart-Landau model with the Wilson-Cowan framework, applying signal processing techniques like band-pass filtering and envelope functional connectivity analysis. This integration demonstrated the Wilson-Cowan model’s superior alignment with empirical MEG data, particularly in handling noise and simulating frequency-specific neural behaviors, further refining my expertise in computational neuroscience.
 3. **Critical Insights and Evaluation:** Conducted an evaluation of the original study, identifying key oversights in noise parameterization and model assumptions. This work emphasized the importance of refining computational models for improved accuracy and reproducibility in simulating complex brain dynamics, deepening my understanding of neuroscience and computational modeling in research.
 
-### NREM sleep in the rodent neocortex and hippocampus reflects excitable dynamics [[PDF Report]](../files/poster_pbm.pdf)
+### [NREM sleep in the rodent neocortex and hippocampus reflects excitable dynamics](https://github.com/shayanshafquat/nrem-sleep-excitable-dynamics/tree/main) [[Poster]](../files/poster_pbm.pdf)
 
 1. **Neural Dynamics Modeling:** Reimplemented a Wilson-Cowan-like model to simulate and analyze UP/DOWN state dynamics in the neocortex and hippocampus during NREM sleep, revealing distinct excitability regimes.
 2. **Bifurcation and Stability Analysis:** Conducted bifurcation analysis and phase plane plotting to categorize neural dynamics into oscillatory, bistable, ExcitableUP, and ExcitableDOWN regimes, highlighting their stability and transition mechanisms.
