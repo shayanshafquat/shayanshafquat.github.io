@@ -12,13 +12,13 @@ redirect_from:
 ## Brief Bio
 ___
 
-My name is Shayan Shafquat. I am from a small place called “Hazaribagh” (a land of thousand gardens), India. I am a curious researcher on topics related to neuroscience, artificial intelligence.
+My name is Shayan Shafquat, and I hail from a small town called Hazaribagh (“the land of a thousand gardens”) in India. I am a researcher with a deep curiosity in neuroscience and artificial intelligence. I hold a Master’s degree in Computational Neuroscience, Cognition, and AI, as well as in Mathematics and Computing, which has shaped my approach to solving complex problems at the intersection of biology and AI.
 
-I have a masters degree in Mathematics and Computing. I have experience applying ML models, NLP techniques and reinforcement learning algorithms.
+I have hands-on experience in applying machine learning models, NLP techniques, and reinforcement learning algorithms across industries like transportation and healthcare. My recent work involves Neural Dynamics and Disease Modeling, simulating Alzheimer’s progression and analyzing brain networks during NREM sleep. I am also developing LLM-based applications and exploring the use of multi-agent systems for research enhancement.
 
-My thinking has been influenced by Geoffrey Hinton, Demis Hassabis, Yoshua Bengio and Terrence Sejnowski. I feel to create better AI agents; we must first study the emergence of intelligence in biological brains.
+Inspired by pioneers like Geoffrey Hinton, Demis Hassabis, Yoshua Bengio, and Terrence Sejnowski, I believe that to build better AI agents, we must first understand how intelligence emerges in biological brains.
 
-Other than this, I enjoy to read on startup culture of India. I also like to listen to a lot of different [music](https://open.spotify.com/user/542p87i1bwevu3h9q4ukv9fht?si=13f1fbb49e5a47a1), watch and play football.
+Outside of my professional interests, I enjoy reading about India’s startup culture, listening to a wide variety of [music](https://open.spotify.com/user/542p87i1bwevu3h9q4ukv9fht?si=13f1fbb49e5a47a1), and playing football.
 
 ## E-mail
 ___
@@ -28,6 +28,10 @@ ___
 ## Updates
 
 ___
+* **Sep 2024** <i>Master's thesis:Simulated foraging behaviors using resource depletion models and evaluated stochastic action selection algorithms in human patch-foraging tasks</i>
+
+* **Sep 2023** <i> At Enkrypt AI, developed LLM security solutions, including a malicious file scanner and defenses against prompt injection and backdoor attacks, leveraging RAGAS and NeMoGuardRails for enhanced robustness</i>
+
 * **August 2022** <i>Neuromatch academy project to study the role of reward and punishment related changes in behaviour of a mice during a 2AFC task</i>
 
 * **June 2022** <i>Started working on the [Bahl cell model](https://github.com/OpenSourceBrain/BahlEtAl2012_ReducedL5PyrCell) and [macaque A1 cortical model](https://github.com/NathanKlineInstitute/Macaque_auditory_thalamocortical_model_data) as a part GSoC 2022 under the mentorship of Padraig Gleeson and Ankur Sinha</i>
