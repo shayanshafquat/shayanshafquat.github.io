@@ -9,13 +9,11 @@ redirect_from:
   - /about.html
 ---
 
-# Shayan Shafquat
-
 ## About Me
-🏡 From Hazaribagh, India - "the land of a thousand gardens"
-🧠 Researcher at the intersection of neuroscience and AI
-🎓 MSc in Computational Neuroscience, Cognition, and AI
-🔢 MSc in Mathematics and Computing
+🏡 From Hazaribagh, India - "the land of a thousand gardens"<br>
+🧠 Researcher at the intersection of neuroscience and AI<br>
+🎓 MSc in Computational Neuroscience, Cognition, and AI<br>
+🔢 MSc in Mathematics and Computing<br>
 
 ## What I Do
 - 🤖 Develop ML models and NLP techniques
@@ -25,12 +23,12 @@ redirect_from:
 - 🚀 Explore multi-agent systems and LLM applications
 
 ## Inspiration
-Driven by the work of Geoffrey Hinton, Demis Hassabis, Yoshua Bengio, and Terrence Sejnowski. I believe understanding biological intelligence is key to building better AI.
+Driven by the work of Geoffrey Hinton, Demis Hassabis, Yoshua Bengio, and Terrence Sejnowski. I believe understanding biological intelligence is key to building next-generation AI.
 
 ## Beyond Work
-📚 Reading about India's startup culture
-🎵 [Exploring diverse music](https://open.spotify.com/user/542p87i1bwevu3h9q4ukv9fht?si=13f1fbb49e5a47a1)
-⚽ Playing football
+📚 Reading about India's startup culture<br>
+🎵 [Exploring diverse music](https://open.spotify.com/user/542p87i1bwevu3h9q4ukv9fht?si=13f1fbb49e5a47a1)<br>
+⚽ Playing football<br>
 
 ## Contact
 📧 shafquat [dot] shayan [at] gmail [dot] com
