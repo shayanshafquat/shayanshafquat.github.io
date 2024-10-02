@@ -9,12 +9,48 @@ redirect_from:
   - /about.html
 ---
 
-## Brief Bio
+# Shayan Shafquat
+
+## About Me
+🏡 From Hazaribagh, India - "the land of a thousand gardens"
+🧠 Researcher at the intersection of neuroscience and AI
+🎓 MSc in Computational Neuroscience, Cognition, and AI
+🔢 MSc in Mathematics and Computing
+
+## What I Do
+- 🤖 Develop ML models and NLP techniques
+- 🎮 Apply reinforcement learning across industries
+- 🧬 Model neural dynamics and neurodegenerative diseases
+- 🌙 Analyze brain networks during NREM sleep
+- 🚀 Explore multi-agent systems and LLM applications
+
+## Inspiration
+Driven by the work of Geoffrey Hinton, Demis Hassabis, Yoshua Bengio, and Terrence Sejnowski. I believe understanding biological intelligence is key to building better AI.
+
+## Beyond Work
+📚 Reading about India's startup culture
+🎵 [Exploring diverse music](https://open.spotify.com/user/542p87i1bwevu3h9q4ukv9fht?si=13f1fbb49e5a47a1)
+⚽ Playing football
+
+## Contact
+📧 shafquat [dot] shayan [at] gmail [dot] com
+
+## Recent Highlights
+- 🎓 **Sep 2024**: [Master's thesis](https://github.com/shayanshafquat/exploration_in_foraging/tree/main) on foraging behaviors and stochastic action selection
+- 🛡️ **Sep 2023**: Developed LLM security solutions at [Enkrypt AI](https://www.enkryptai.com/)
+- 🐭 **Aug 2022**: Neuromatch Academy project on reward/punishment in mice behavior
+- 🧠 **Jun 2022**: GSoC 2022 work on [Bahl cell model](https://github.com/OpenSourceBrain/BahlEtAl2012_ReducedL5PyrCell) and [macaque A1 cortical model](https://github.com/NathanKlineInstitute/Macaque_auditory_thalamocortical_model_data)
+- 🚀 **Jan 2022**: Transitioned from Data Scientist at OLA to Computational Neuroscience research
+- 🎓 **Jun 2020**: Graduated from [IIT Kharagpur](http://www.iitkgp.ac.in/) with B.Sc and MSc in Mathematics and Computing
+
+Let's connect and explore the fascinating world where neuroscience meets AI!
+
+<!-- ## Brief Bio
 ___
 
 My name is Shayan Shafquat, and I hail from a small town called Hazaribagh (“the land of a thousand gardens”) in India. I am a researcher with a deep curiosity in neuroscience and artificial intelligence. I hold a Master’s degree in Computational Neuroscience, Cognition, and AI, as well as in Mathematics and Computing, which has shaped my approach to solving complex problems at the intersection of biology and AI.
 
-I have hands-on experience in applying machine learning models, NLP techniques, and reinforcement learning algorithms across industries like transportation and healthcare. My recent work involves Neural Dynamics and Disease Modeling, simulating Alzheimer’s progression and analyzing brain networks during NREM sleep. I am also developing LLM-based applications and exploring the use of multi-agent systems for research enhancement.
+I have hands-on experience in applying machine learning models, NLP techniques, and reinforcement learning algorithms across industries like transportation and healthcare. My recent work involves Neural Dynamics and Disease Modeling, simulating Alzheimer’s progression and analyzing brain networks during NREM sleep. I am also developing LLM-based applications and exploring the use of multi-agent systems.
 
 Inspired by pioneers like Geoffrey Hinton, Demis Hassabis, Yoshua Bengio, and Terrence Sejnowski, I believe that to build better AI agents, we must first understand how intelligence emerges in biological brains.
 
@@ -28,9 +64,9 @@ ___
 ## Updates
 
 ___
-* **Sep 2024** <i>Master's thesis:Simulated foraging behaviors using resource depletion models and evaluated stochastic action selection algorithms in human patch-foraging tasks</i>
+* **Sep 2024** <i>[Master's thesis](https://github.com/shayanshafquat/exploration_in_foraging/tree/main): Simulated foraging behaviors using resource depletion models and evaluated stochastic action selection algorithms in human patch-foraging tasks</i>
 
-* **Sep 2023** <i> At Enkrypt AI, developed LLM security solutions, including a malicious file scanner and defenses against prompt injection and backdoor attacks, leveraging RAGAS and NeMoGuardRails for enhanced robustness</i>
+* **Sep 2023** <i> At [Enkrypt AI](https://www.enkryptai.com/), developed LLM security solutions, including a malicious file scanner and defenses against prompt injection and backdoor attacks, leveraging RAGAS and NeMoGuardRails for enhanced robustness</i>
 
 * **August 2022** <i>Neuromatch academy project to study the role of reward and punishment related changes in behaviour of a mice during a 2AFC task</i>
 
@@ -40,7 +76,7 @@ ___
 
 * **January 2022**  <i>Left the role of Data Scientist at OLA (ride hailing firm) to pursue my research interests in the field of Computational Neuroscience</i>
 
-* **June 2020** <i>Completed my graduation from [IIT Kharagpur](http://www.iitkgp.ac.in/) with B.Sc and Msc. in the course of Mathematics and Computing</i>
+* **June 2020** <i>Completed my graduation from [IIT Kharagpur](http://www.iitkgp.ac.in/) with B.Sc and Msc. in the course of Mathematics and Computing</i> -->
 
 <!---
 A data-driven personal website
