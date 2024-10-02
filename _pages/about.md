@@ -13,7 +13,7 @@ redirect_from:
 🏡 From Hazaribagh, India - "the land of a thousand gardens"<br>
 🧠 Researcher at the intersection of neuroscience and AI<br>
 🎓 MSc in Computational Neuroscience, Cognition, and AI<br>
-🔢 MSc in Mathematics and Computing<br>
+🔢 Integrated MSc in Mathematics and Computing<br>
 
 ## What I Do
 - 🤖 Develop ML models and NLP techniques
