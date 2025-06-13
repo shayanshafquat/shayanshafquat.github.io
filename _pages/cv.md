@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="../files/Shayan_CV.pdf" type="application/pdf">
+<embed src="../files/ML/Shayan_CV_Applied_Scientist.pdf" type="application/pdf">
 
