@@ -85,9 +85,9 @@ analytics:
 author:
   name             : "Shayan Shafquat"
   avatar           : "shayan.png"
-  bio              : "Actively looking out for full-time opportunities at the intersection of AI and Neuroscience"
-  location         : "Location"
-  employer         :
+  bio              : "Senior Data Scientist with 2.5+ years production-grade ML systems experience, specializing in personalization, recommendation engines, and RAG systems. Currently at Allstate, London, UK. Actively looking out for full-time opportunities at the intersection of AI and Neuroscience."
+  location         : "London, UK"
+  employer         : "Allstate"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :

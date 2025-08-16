@@ -1,28 +1,32 @@
 # main links links
 main:
-  #- title: "Publications"
-  #  url: /publications/
-
-  #- title: "Talks"
-  #  url: /talks/    
-
-  #- title: "Teaching"
-  #  url: /teaching/    
-  - title: "Projects"
-    url: /projects/
-
   - title: "Experiences"
     url: /experiences/
         
-  - title: "Blog"
-    url: /year-archive/
+  - title: "Skills"
+    url: /skills/
+
+  - title: "Projects"
+    url: /projects/
     
   - title: "CV"
     url: /cv/
 
+  - title: "Blog"
+    url: /year-archive/
+    
   - title: "Interesting Reads"
     url: /reads/
     
+  # - title: "Publications"
+  #   url: /publications/
+
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+
   # - title: "Guide"
   #   url: /markdown/
 

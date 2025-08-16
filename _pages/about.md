@@ -11,13 +11,17 @@ redirect_from:
 
 ## About Me
 🏡 From Hazaribagh, India - "the land of a thousand gardens"<br>
-🧠 Researcher at the intersection of neuroscience and AI<br>
-🎓 MSc in Computational Neuroscience, Cognition, and AI<br>
+🧠 Senior Data Scientist specializing in AI and ML systems<br>
+🎓 MSc in Computational Neuroscience, Cognition, and AI (Distinction)<br>
 🔢 Integrated MSc in Mathematics and Computing<br>
+📍 Currently based in London, UK<br>
 
 ## What I Do
-- 🤖 Develop ML models and NLP techniques
-- 🎮 Apply reinforcement learning across industries
+- 🤖 Develop production-grade ML models and NLP techniques
+- 🎯 Build personalization and recommendation engines
+- 🚀 Design and deploy RAG systems and LLM workflows
+- 📊 Drive business impact through data-driven solutions
+- 🧬 Apply ML across insurance, transportation, and healthcare domains
 - 🧬 Model neural dynamics and neurodegenerative diseases
 - 🌙 Analyze brain networks during NREM sleep
 - 🚀 Explore multi-agent systems and LLM applications
@@ -31,14 +35,17 @@ Driven by the work of Geoffrey Hinton, Demis Hassabis, Yoshua Bengio, and Terren
 ⚽ Playing football<br>
 
 ## Contact
-📧 shafquat [dot] shayan [at] gmail [dot] com
+📧 shafquat [dot] shayan [at] gmail [dot] com<br>
+📍 London, United Kingdom<br>
+🔗 [LinkedIn](https://www.linkedin.com/in/shayan-shafquat) | [GitHub](https://github.com/shayanshafquat)
 
 ## Recent Highlights
-- 🎓 **Sep 2024**: [Master's thesis](https://github.com/shayanshafquat/exploration_in_foraging/tree/main) on foraging behaviors and stochastic action selection
+- 💼 **Jan 2025 - Present**: Senior Data Scientist at Allstate, London - Leading ML initiatives with $1.35M+ business impact
+- 🎓 **Nov 2024**: Completed MSc in Computational Neuroscience with Distinction
 - 🛡️ **Sep 2023**: Developed LLM security solutions at [Enkrypt AI](https://www.enkryptai.com/)
 - 🐭 **Aug 2022**: Neuromatch Academy project on reward/punishment in mice behavior
+- 🚗 **Sep 2020 - Jan 2022**: Data Scientist at OLA - Improved pricing algorithms and traffic optimization
 - 🧠 **Jun 2022**: GSoC 2022 work on [Bahl cell model](https://github.com/OpenSourceBrain/BahlEtAl2012_ReducedL5PyrCell) and [macaque A1 cortical model](https://github.com/NathanKlineInstitute/Macaque_auditory_thalamocortical_model_data)
-- 🚀 **Jan 2022**: Transitioned from Data Scientist at OLA to Computational Neuroscience research
 - 🎓 **Jun 2020**: Graduated from [IIT Kharagpur](http://www.iitkgp.ac.in/) with B.Sc and MSc in Mathematics and Computing
 
 Let's connect and explore the fascinating world where neuroscience meets AI!
