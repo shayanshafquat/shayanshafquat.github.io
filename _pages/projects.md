@@ -7,6 +7,26 @@ redirect_from:
   - /projects
 ---
 
+# Recent Industry Projects
+
+## RAG-Based Research Platform
+**October - December 2024**
+
+Built a modular RAG platform with OpenAI/Llama integration for research applications. Implemented CI/CD workflows with GitHub Actions and external web & document retrieval capabilities.
+
+**Technologies**: Python, LangChain, LlamaIndex, OpenAI API, GitHub Actions, FastAPI
+
+## Traffic Light Optimization (OLA Research)
+**2021**
+
+Developed SUMO-based Deep Q-learning simulation for traffic optimization. Achieved 18.3% reduction in wait times through intelligent traffic signal coordination.
+
+**Technologies**: Python, SUMO, Deep Q-Learning, Traffic Simulation
+
+---
+
+# Academic & Research Projects
+
 ### [Neuronal oscillations on evolving networks: Dynamics, Damage, Degeneration, Decline, Dementia and Death: A review and extension of Goreily et al. (2020)](https://github.com/shayanshafquat/PBM2/tree/main) [[PDF Report]](../files/PBM_2.pdf)
 1. **Neurodegenerative Disease Modeling:** Recreated and extended a neural network model to simulate the progression of neurodegenerative diseases, using the Fisher-Kolmogorov-Petrovsky-Piskunov and Heterodimer models for protein spread. This deepened my expertise in modeling disease dynamics within evolving brain networks, particularly in the context of Alzheimer’s disease.
 2. **Resting-State Brain Dynamics Analysis:** Applied signal processing techniques to analyze resting-state brain dynamics, focusing on the decline of cognitive functions over time. This included implementing dynamic biomarkers like Gamma range power and metastability index, enhancing my skills in using neural mass models (e.g., Wilson-Cowan) to simulate and interpret brain activity.
@@ -16,6 +36,11 @@ redirect_from:
 1. **Model Reimplementation and Analysis:** Recreated Deco’s multiple-frequency brain model, utilizing techniques like bifurcation analysis, nullcline plotting, and the Euler-Maruyama method. This work enhanced my skills in simulating neural dynamics and analyzing resting-state brain activity through computational models, while also highlighting challenges in replicability and parameter sensitivity.
 2. **Enhanced Model Integration and Comparison:** Extended the Stuart-Landau model with the Wilson-Cowan framework, applying signal processing techniques like band-pass filtering and envelope functional connectivity analysis. This integration demonstrated the Wilson-Cowan model’s superior alignment with empirical MEG data, particularly in handling noise and simulating frequency-specific neural behaviors, further refining my expertise in computational neuroscience.
 3. **Critical Insights and Evaluation:** Conducted an evaluation of the original study, identifying key oversights in noise parameterization and model assumptions. This work emphasized the importance of refining computational models for improved accuracy and reproducibility in simulating complex brain dynamics, deepening my understanding of neuroscience and computational modeling in research.
+
+### [Master's Dissertation: Stochastic Models in Patch Foraging](https://github.com/shayanshafquat/exploration_in_foraging/tree/main)
+**May - September 2024 | Grade: Distinction**
+
+Simulated foraging behaviors using resource depletion models and evaluated stochastic action selection algorithms in human patch-foraging tasks. Applied MVT predictions and epsilon-greedy algorithms for optimal foraging strategies.
 
 ### [NREM sleep in the rodent neocortex and hippocampus reflects excitable dynamics](https://github.com/shayanshafquat/nrem-sleep-excitable-dynamics/tree/main) [[Poster]](../files/poster_pbm.pdf)
 

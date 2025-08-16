@@ -10,56 +10,112 @@ redirect_from:
 
 
 
-# Full Time Positions
-## Data Scientist - I
+# Professional Experience
+
+## Senior Data Scientist
+### Allstate Insurance, London, United Kingdom
+**January 2025 - Present**
+
+<img style="float: left;" src="/images/allstate_logo.png" width="200" height="200" hspace="30">
+
+Leading machine learning initiatives with focus on personalization and recommendation systems. Key achievements:
+
+- **Multi-step LLM Workflow**: Designed and deployed theme generation system using advanced language models
+- **Business Impact**: Generated $X.XXM impact through Lambda & Jenkins deployment optimization  
+- **Performance Improvement**: Achieved 1.8% boost in loss capture rate through ML model enhancements
+- **LLM Prototype Development**: Built and tested LLM-powered prototypes for insurance applications
+
+**Technologies**: Guardrail, AWS Lambda, Jenkins, Map-Reduce, Neural Networks, Python, SQL
+
+<br/><br/>
+<br/><br/>
+
+## Data Scientist
 ### ANI Technologies Private Limited (OLA), Bangalore, India
+**September 2020 - January 2022**
 
 <img style="float: left;" src="/images/ola_logo.jpeg" width="200" height="200" hspace="30">
 
-From September 2020 to January 2022, I worked as a Data Scientist at Ola, India. I was involved in the data science team that dealt with pricing problems for cabs. The work involved around user retention, improving earnings for the partners and making the platform hassle-free.
+Led pricing optimization and traffic analysis for India's largest ride-hailing platform. Improved cashless rides by +5% and reduced wait times by -18.3%. From September 2020 to January 2022, I worked as a Data Scientist at Ola, India. I was involved in the data science 
+team that dealt with pricing problems for cabs. The work involved around user retention, improving earnings for the 
+partners and making the platform hassle-free.
+
+**Technologies**: Python, SQL, Ensemble Models, Feature Store API, 15M+ user data processing
 
 <br/><br/>
 <br/><br/>
 
-<!--
-# Internships
+## AI Consultant
+### Enkrypt AI, Remote
+**September 2023**
 
-___
+<img style="float: left;" src="/images/enkrypt_ai_logo.png" width="200" height="200" hspace="30">
+
+Developed comprehensive LLM security solutions for enterprise applications. Key contributions:
+
+- **Malicious File Scanner**: Built automated system for detecting and filtering malicious content in file uploads
+- **LLM Pipeline Security**: Implemented RAGAS and GuardRails for robust LLM system testing and validation
+- **Security Testing**: Conducted comprehensive security assessments of LLM pipelines and RAG systems
+- **Prompt Injection Defense**: Developed defenses against prompt injection and backdoor attacks
+
+**Technologies**: Python, RAGAS, NeMoGuardRails, LLM Security, RAG Systems
+
+<br/><br/>
+<br/><br/>
+
+## Research Engineer Intern
+### ANI Technologies Private Limited (OLA), Bangalore, India
+**May 2020 - August 2020**
+
+<img style="float: left;" src="/images/ola_logo.jpeg" width="200" height="200" hspace="30">
+
+Researched traffic optimization algorithms using SUMO simulation and developed pricing strategy models for ride-hailing platforms.
+
+**Technologies**: Python, SUMO, SQL, Data Analysis
+
+<br/><br/>
+<br/><br/>
+
+<!-- # Internships & Research Experience
 
 ## Qualcomm, Bangalore Design Center, India
+**Summer 2019**
 
 <img style="float: left;" src="/images/qualcomm.png" width="200" height="200" hspace="30">
 
-In Summers of 2019 I was with the Memory Design Team at [Qualcomm Bangalore](https://www.qualcomm.com/company/locations/india) where I worked on the detection of Electromigration prone structures from layouts and reviewed the read/write assist and current/voltage sense amplifier ciruits. I was offered pre-placement job opportunity based on my performance.
+Memory Design Team intern working on Electromigration detection and circuit design review. Offered pre-placement opportunity based on performance.
 
 <br/><br/>
 <br/><br/>
 
 ## Pix Moving, Guiyang, China
+**December 2018**
 
 <img style="float: left;" src="/images/pix_moving.png" width="200" height="200" hspace="30">
 
-In December 2018, I intered as an Car Electronics and Control Engineer at [Pix Moving](https://www.pixmoving.com/). I developed a CAN based system of braking, steering and accelerator unit on ARM microcontrollers. Hacked BAIC EV car's ultrasonic system for parking assistance and assisted the team in debugging the pix Robo-vehicle motor driver units.
+Car Electronics and Control Engineer intern. Developed CAN-based braking, steering, and accelerator systems on ARM microcontrollers.
 
 <br/><br/>
 <br/><br/>
 <br/><br/>
 
 ## Fujita Lab, VDEC, The University of Tokyo, Japan
+**Summer 2018**
 
 <img style="float: left;" src="/images/fujita_lab.png" width ="200" height="200" hspace="30">
 
-In Summers of 2018, I was VDEC intern with [Prof. Masahiro Fujita](https://www.cad.t.u-tokyo.ac.jp/en/Member/), I worked on CAD tool development for partial logic synthesis using discrete valued DNN and And Inverted Graphs (AIGs). Moreover I implemented existing discrete DNN algorithm on tensorflow, along with QBF based architecture verification.
+VDEC intern with [Prof. Masahiro Fujita](https://www.cad.t.u-tokyo.ac.jp/en/Member/). Developed CAD tools for partial logic synthesis using discrete DNN and AIGs.
 
 
 <br/><br/>
 <br/><br/>
 
 ## VLSI Summer School, AVLSI Lab, IIT Kharagpur, India
+**Summer 2017**
 
 <img style="float: left;" src="/images/AVLSI.png" width="200" height="200" hspace="30">
 
-In Summers of 2017, I attended two months long VLSI Summer School by [Prof. Mrigank Sharad](https://www.linkedin.com/in/mrigank-sharad-b2835b7/?originalSubdomain=in). I worked on various design problems in analog and digital domains such as Opamp design, low noise amplifier for bio-medical front-end and RTL design with implementation in LTSPice, Cadence Virtuoso and XIlinx ISE.
+Two-month VLSI Summer School by [Prof. Mrigank Sharad](https://www.linkedin.com/in/mrigank-sharad-b2835b7/?originalSubdomain=in). Worked on Opamp design, bio-medical amplifiers, and RTL design.
 
 <br/><br/>
 <br/><br/>
@@ -70,36 +126,66 @@ In Summers of 2017, I attended two months long VLSI Summer School by [Prof. Mrig
 ____
 
 ## Teaching Assistant, Dept. of Electronics and Electrical Communication Engineering, IIT Kharagpur, India
+**2019-2020**
 
 <img style="float: left;" src="/images/kgp.png" width="200" height="200" hspace="30">
 
-I was teaching instructor for the following two courses at IIT Kharagpur. I was responsible for designing test materials, lab assignment and corresponding theory.
-
-- Autumn 2019, EC39003- DIGITAL ELECTRONIC CIRCUITS LAB: Under [Prof. Indrajit Chakrabarti](http://www.iitkgp.ac.in/department/EC/faculty/ec-indrajit).
-- Spring 2020, EC39004- VLSI LABORATORY : Under [Prof. Vivek Dixit](http://www.iitkgp.ac.in/department/EC/faculty/ec-vdixit).
+Teaching instructor for Digital Electronic Circuits Lab and VLSI Laboratory. Designed test materials and lab assignments.
 
 
 <br/><br/>
 <br/><br/>
 
 ## IEEE Robotics Winter Workshop IIT Kharagpur
+**December 2016**
 
 <img style="float: left;" src="/images/wws.png" width="200" height="200" hspace="30">
 
-I was one of the project heads and mentors during Decemeber 2016 from an IEEE certified robotics workshop at IIT Kharagpur. I mentored a group of 43 robotics enthusiasts from freshmen and sophomore year to build an Obstacle removing autonomous robot, worked on course content and evaluation metrics.
+Project head and mentor for IEEE certified robotics workshop. Mentored 43 students to build autonomous obstacle-removing robots.
 
 <br/><br/>
 <br/><br/>
+
+# Education
+
+## MSc in Computational Neuroscience, Cognition, and AI
+### University of Sussex, United Kingdom
+**May 2024 - November 2024**
+
+Completed with **Distinction**. Thesis: "Stochastic Models in Patch Foraging: Evaluating MVT Predictions and Epsilon-Greedy Algorithms"
+
+## Integrated MSc in Mathematics and Computing
+### IIT Kharagpur, India
+**2015 - 2020**
+
+Graduated with strong foundation in mathematics, computing, and engineering principles.
+
+---
+
+# Achievements
+
+## Academic Excellence
+- **Distinction Graduate**: MSc in Computational Neuroscience with top-ranked thesis
+- **JEE Advance**: 99.5 percentile score in India's most competitive engineering entrance exam
+- **INSPIRE Scholarship**: Eligible for government research scholarship program
+
+## Competition & Leadership
+- **Gold Medal**: LSTM model won Inter Hall Data Analytics Competition 2018
+- **Gold Medal**: Football team champion (2017, 2019)
+- **RoboCup 2017**: Led first Indian team at SSL RoboCup, Nagoya, Japan
+
+---
 
 # Student Organization
 
 ___
 
 ## [KRSSG](https://krssg.in/index.html)
+**2016-2020**
 
 <img style="float: left;" src="/images/krssg.png" width="200" height="200" hspace="30">
 
-The group consists of a bunch of robotics enthusiasts working on the development of autonomous soccer-playing robots for participation in International Competitions like RoboCup and FIRA. Currently, I am the Student Advisor to the group with a focus on the Embedded Electronics team which is responsible for the design of FPGA based circuits involving communication with the base station and BLDC motor based control unit. During my third year, I led the team at Robocup 2017 at Nagoya, Japan (first Indian team at SSL Robocup).
+Student Advisor for robotics group developing autonomous soccer-playing robots. Led team at RoboCup 2017, Nagoya (first Indian SSL team). Focus on FPGA-based embedded electronics. -->
 
 <!-- <br/><br/>
 <br/><br/>
