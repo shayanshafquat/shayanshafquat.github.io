@@ -1,0 +1,229 @@
+/* ==========================================================================
+   Performance Optimization
+   ========================================================================== */
+
+/* Critical CSS - Above the fold styles */
+.critical {
+  /* Essential styles for initial render */
+  display: block;
+  visibility: visible;
+}
+
+/* Lazy Loading for Images */
+.lazy-image {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.lazy-image.loaded {
+  opacity: 1;
+}
+
+/* Content Visibility Optimization */
+.content-visibility-auto {
+  content-visibility: auto;
+  contain-intrinsic-size: 0 500px;
+}
+
+/* Will-change for Animations */
+.skill-badge,
+.tech-tag,
+.project-card {
+  will-change: transform;
+}
+
+/* Optimized Transitions */
+.skill-badge,
+.tech-tag,
+.project-card,
+.experience-item {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Reduce Paint Operations */
+.skill-section,
+.project-card,
+.experience-item {
+  transform: translateZ(0);
+  backface-visibility: hidden;
+}
+
+/* Optimized Shadows */
+.skill-section,
+.project-card,
+.experience-item {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.skill-section:hover,
+.project-card:hover,
+.experience-item:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Efficient Gradients */
+.skill-badge {
+  background: linear-gradient(135deg, #2563eb 0%, #3b82f6 100%);
+}
+
+.achievement-badge {
+  background: linear-gradient(135deg, #10b981 0%, #f59e0b 100%);
+}
+
+/* Optimized Font Loading */
+@font-face {
+  font-family: 'Inter';
+  font-display: swap;
+  src: url('/fonts/inter-var.woff2') format('woff2-variations');
+  font-weight: 100 900;
+}
+
+/* Critical Path CSS */
+.critical-styles {
+  /* Inline critical styles here */
+  .masthead { background: #fff; }
+  .page__content { padding: 2rem; }
+  .skill-badge { display: inline-block; }
+}
+
+/* Performance Monitoring */
+.performance-marker {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* Optimized Grid Layouts */
+.project-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  contain: layout style paint;
+}
+
+/* Efficient Flexbox */
+.skill-section {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+/* Optimized Animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px) translateZ(0);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) translateZ(0);
+  }
+}
+
+.fade-in-up {
+  animation: fadeInUp 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Reduce Layout Thrashing */
+.skill-badge,
+.tech-tag {
+  contain: layout style;
+}
+
+/* Optimized Hover States */
+.skill-badge:hover,
+.tech-tag:hover {
+  transform: translateY(-2px) translateZ(0);
+}
+
+/* Efficient Media Queries */
+@media (max-width: 767px) {
+  .project-cards {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .project-cards {
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.25rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .project-cards {
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 1.5rem;
+  }
+}
+
+/* Print Optimization */
+@media print {
+  .skill-badge,
+  .tech-tag {
+    background: #f0f0f0 !important;
+    color: #000 !important;
+    border: 1px solid #ccc !important;
+  }
+  
+  .project-card,
+  .experience-item {
+    break-inside: avoid;
+  }
+}
+
+/* High Performance Scrolling */
+.smooth-scroll {
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Optimized Focus States */
+.skill-badge:focus,
+.tech-tag:focus {
+  outline: 2px solid #2563eb;
+  outline-offset: 2px;
+}
+
+/* Efficient Loading States */
+.loading {
+  opacity: 0.6;
+  pointer-events: none;
+}
+
+.loaded {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+/* Performance Budget Compliance */
+.performance-budget {
+  /* Ensure styles don't exceed performance budget */
+  contain: layout style paint;
+  will-change: auto;
+}
+
+/* Optimized CSS Variables */
+:root {
+  --transition-fast: 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-medium: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Use optimized transitions */
+.skill-badge {
+  transition: transform var(--transition-fast);
+}
+
+.project-card {
+  transition: all var(--transition-medium);
+}
+
+.experience-item {
+  transition: all var(--transition-slow);
+}
