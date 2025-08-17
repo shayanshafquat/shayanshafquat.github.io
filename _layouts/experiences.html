@@ -1,0 +1,223 @@
+---
+layout: default
+---
+
+<div class="experiences-container">
+  <header class="experiences-header">
+    <h1 class="experiences-title">{{ page.title | default: "Professional Experience" }}</h1>
+    <p class="experiences-subtitle">A comprehensive overview of my professional journey and achievements</p>
+  </header>
+
+  <div class="timeline-container">
+    <!-- Senior Data Scientist -->
+    <div class="timeline-item">
+      <div class="timeline-marker"></div>
+      <div class="timeline-content">
+        <div class="experience-card">
+          <div class="experience-header">
+            <div class="company-logo">
+              <img src="/images/allstate_logo.png" alt="Allstate Insurance" class="logo-image">
+            </div>
+            <div class="experience-info">
+              <h3 class="job-title">Senior Data Scientist</h3>
+              <h4 class="company-name">Allstate Insurance</h4>
+              <p class="location">London, United Kingdom</p>
+              <p class="duration">January 2025 - Present</p>
+            </div>
+            <button class="expand-btn" onclick="toggleExperience(this)">
+              <i class="fas fa-chevron-down"></i>
+            </button>
+          </div>
+          
+          <div class="experience-details collapsed">
+            <div class="achievements">
+              <h5>Key Achievements:</h5>
+              <ul>
+                <li><strong>Multi-step LLM Workflow:</strong> Designed and deployed theme generation system using advanced language models</li>
+                <li><strong>Business Impact:</strong> Generated $X.XXM impact through Lambda & Jenkins deployment optimization</li>
+                <li><strong>Performance Improvement:</strong> Achieved 1.8% boost in loss capture rate through ML model enhancements</li>
+                <li><strong>LLM Prototype Development:</strong> Built and tested LLM-powered prototypes for insurance applications</li>
+              </ul>
+            </div>
+            <div class="technologies">
+              <h5>Technologies:</h5>
+              <div class="tech-tags">
+                <span class="tech-tag">Guardrail</span>
+                <span class="tech-tag">AWS Lambda</span>
+                <span class="tech-tag">Jenkins</span>
+                <span class="tech-tag">Map-Reduce</span>
+                <span class="tech-tag">Neural Networks</span>
+                <span class="tech-tag">Python</span>
+                <span class="tech-tag">SQL</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Data Scientist at OLA -->
+    <div class="timeline-item">
+      <div class="timeline-marker"></div>
+      <div class="timeline-content">
+        <div class="experience-card">
+          <div class="experience-header">
+            <div class="company-logo">
+              <img src="/images/ola_logo.jpeg" alt="OLA" class="logo-image">
+            </div>
+            <div class="experience-info">
+              <h3 class="job-title">Data Scientist</h3>
+              <h4 class="company-name">ANI Technologies Private Limited (OLA)</h4>
+              <p class="location">Bangalore, India</p>
+              <p class="duration">September 2020 - January 2022</p>
+            </div>
+            <button class="expand-btn" onclick="toggleExperience(this)">
+              <i class="fas fa-chevron-down"></i>
+            </button>
+          </div>
+          
+          <div class="experience-details collapsed">
+            <div class="achievements">
+              <h5>Key Achievements:</h5>
+              <ul>
+                <li>Led pricing optimization and traffic analysis for India's largest ride-hailing platform</li>
+                <li>Improved cashless rides by +5% and reduced wait times by -18.3%</li>
+                <li>Worked in the data science team dealing with pricing problems for cabs</li>
+                <li>Focused on user retention, improving earnings for partners, and making the platform hassle-free</li>
+              </ul>
+            </div>
+            <div class="technologies">
+              <h5>Technologies:</h5>
+              <div class="tech-tags">
+                <span class="tech-tag">Python</span>
+                <span class="tech-tag">SQL</span>
+                <span class="tech-tag">Ensemble Models</span>
+                <span class="tech-tag">Feature Store API</span>
+                <span class="tech-tag">15M+ user data processing</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- AI Consultant -->
+    <div class="timeline-item">
+      <div class="timeline-marker"></div>
+      <div class="timeline-content">
+        <div class="experience-card">
+          <div class="experience-header">
+            <div class="company-logo">
+              <img src="/images/enkrypt_ai_logo.png" alt="Enkrypt AI" class="logo-image">
+            </div>
+            <div class="experience-info">
+              <h3 class="job-title">AI Consultant</h3>
+              <h4 class="company-name">Enkrypt AI</h4>
+              <p class="location">Remote</p>
+              <p class="duration">September 2023</p>
+            </div>
+            <button class="expand-btn" onclick="toggleExperience(this)">
+              <i class="fas fa-chevron-down"></i>
+            </button>
+          </div>
+          
+          <div class="experience-details collapsed">
+            <div class="achievements">
+              <h5>Key Achievements:</h5>
+              <ul>
+                <li><strong>Malicious File Scanner:</strong> Built automated system for detecting and filtering malicious content in file uploads</li>
+                <li><strong>LLM Pipeline Security:</strong> Implemented RAGAS and GuardRails for robust LLM system testing and validation</li>
+                <li><strong>Security Testing:</strong> Conducted comprehensive security assessments of LLM pipelines and RAG systems</li>
+                <li><strong>Prompt Injection Defense:</strong> Developed defenses against prompt injection and backdoor attacks</li>
+              </ul>
+            </div>
+            <div class="technologies">
+              <h5>Technologies:</h5>
+              <div class="tech-tags">
+                <span class="tech-tag">Python</span>
+                <span class="tech-tag">RAGAS</span>
+                <span class="tech-tag">NeMoGuardRails</span>
+                <span class="tech-tag">LLM Security</span>
+                <span class="tech-tag">RAG Systems</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Research Engineer Intern -->
+    <div class="timeline-item">
+      <div class="timeline-marker"></div>
+      <div class="timeline-content">
+        <div class="experience-card">
+          <div class="experience-header">
+            <div class="company-logo">
+              <img src="/images/ola_logo.jpeg" alt="OLA" class="logo-image">
+            </div>
+            <div class="experience-info">
+              <h3 class="job-title">Research Engineer Intern</h3>
+              <h4 class="company-name">ANI Technologies Private Limited (OLA)</h4>
+              <p class="location">Bangalore, India</p>
+              <p class="duration">May 2020 - August 2020</p>
+            </div>
+            <button class="expand-btn" onclick="toggleExperience(this)">
+              <i class="fas fa-chevron-down"></i>
+            </button>
+          </div>
+          
+          <div class="experience-details collapsed">
+            <div class="achievements">
+              <h5>Key Achievements:</h5>
+              <ul>
+                <li>Researched traffic optimization algorithms using SUMO simulation</li>
+                <li>Developed pricing strategy models for ride-hailing platforms</li>
+              </ul>
+            </div>
+            <div class="technologies">
+              <h5>Technologies:</h5>
+              <div class="tech-tags">
+                <span class="tech-tag">Python</span>
+                <span class="tech-tag">SUMO</span>
+                <span class="tech-tag">SQL</span>
+                <span class="tech-tag">Data Analysis</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- JavaScript for collapsible functionality -->
+<script>
+function toggleExperience(button) {
+  const details = button.parentElement.nextElementSibling;
+  const icon = button.querySelector('i');
+  
+  if (details.classList.contains('collapsed')) {
+    details.classList.remove('collapsed');
+    details.classList.add('expanded');
+    icon.classList.remove('fa-chevron-down');
+    icon.classList.add('fa-chevron-up');
+    button.setAttribute('aria-expanded', 'true');
+  } else {
+    details.classList.remove('expanded');
+    details.classList.add('collapsed');
+    icon.classList.remove('fa-chevron-up');
+    icon.classList.add('fa-chevron-down');
+    button.setAttribute('aria-expanded', 'false');
+  }
+}
+
+// Initialize all experience items as collapsed
+document.addEventListener('DOMContentLoaded', function() {
+  const expandBtns = document.querySelectorAll('.expand-btn');
+  expandBtns.forEach(btn => {
+    btn.setAttribute('aria-expanded', 'false');
+  });
+});
+</script>
+
+{{ content }}
