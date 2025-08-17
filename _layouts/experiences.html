@@ -217,6 +217,14 @@ document.addEventListener('DOMContentLoaded', function() {
   expandBtns.forEach(btn => {
     btn.setAttribute('aria-expanded', 'false');
   });
+  
+  // Add click event listeners to all expand buttons
+  const allExpandBtns = document.querySelectorAll('.expand-btn');
+  allExpandBtns.forEach(btn => {
+    btn.addEventListener('click', function() {
+      toggleExperience(this);
+    });
+  });
 });
 </script>
 
